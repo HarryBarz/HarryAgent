@@ -1,0 +1,7 @@
+.claude/
+node_modules/
+*.log
+.DS_Store
+AUDIT_REPORT.md
+RECON_REPORT.md
+SHUTDOWN_REPORT.md
